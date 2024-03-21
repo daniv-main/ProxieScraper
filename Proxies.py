@@ -188,7 +188,3 @@ class Proxies:
 
 #endregion
 
-
-c =     Proxies()
-for i in range (1,100):
-  print(  c.getProxie())
