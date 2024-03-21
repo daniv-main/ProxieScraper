@@ -6,4 +6,4 @@ PAGE_NUMBER=1 #Each page has 500 proxies, defaults to 1. If needed, max is 9.
 PROXIES_TO_USE=50 #Number of proxies you want to use. Each page has 500 proxies and some can fail.
 PROXIES_FILENAME="Proxies.csv"
 
-WEB_AGENTS="BOCScraper\\Business\\user-agents.txt"
+WEB_AGENTS="user-agents.txt"
